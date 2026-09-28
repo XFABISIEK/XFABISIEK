@@ -17,7 +17,7 @@
   <br />
 
   <!-- Przycisk Discord -->
-  <a href="[https://discord.gg/FGtrTyRrzp]">
+  <a href="https://discord.gg/FGtrTyRrzp" target="_blank">
     <img src="https://img.shields.io/badge/Polski%20Vibehouse-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Polski Vibehouse" />
   </a>
 </div>
@@ -25,4 +25,4 @@
 ---
 
 ### 🚀 Moje Projekty
-- 📌 **[Nazwa Projektu 1]([https://github.com/XFABISIEK/Context]))**
+- 📌 **[Context](https://github.com/XFABISIEK/Context)**
