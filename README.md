@@ -25,4 +25,17 @@
 ---
 
 ### 🚀 Moje Projekty
-- 📌 **[Context](https://github.com/XFABISIEK/Context)**
+
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="https://github.com/XFABISIEK/Context">
+        <img src="https://raw.githubusercontent.com/XFABISIEK/Context/main/app-icon.png" width="50" alt="Context Logo" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/XFABISIEK/Context">Context</a></strong><br />
+      Aplikacja rozwijana w ramach projektu Context.
+    </td>
+  </tr>
+</table>
