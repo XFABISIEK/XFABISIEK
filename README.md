@@ -30,11 +30,11 @@
   <tr>
     <td align="center" width="70">
       <a href="https://github.com/XFABISIEK/Context">
-        <img src="https://raw.githubusercontent.com/XFABISIEK/Context/main/app-icon.png" width="50" alt="Context Logo" />
+        <img src="https://raw.githubusercontent.com/XFABISIEK/Contexta/main/app-icon.png" width="50" alt="Context Logo" />
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/XFABISIEK/Context">Context</a></strong><br />
+      <strong><a href="https://github.com/XFABISIEK/Contexta">Contexta</a></strong><br />
       An application built for AI databases.
     </td>
   </tr>
