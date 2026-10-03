@@ -33,13 +33,5 @@
         />
       </a>
     </td>
-
-    <td>
-      <strong>
-        <a href="https://github.com/XFABISIEK/Contexta">Contexta</a>
-      </strong>
-      <br />
-      An application built for AI databases.
-    </td>
   </tr>
 </table>
