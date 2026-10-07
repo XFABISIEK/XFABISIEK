@@ -17,28 +17,3 @@
     <img src="https://img.shields.io/badge/Polski%20Vibehouse-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Polski Vibehouse" />
   </a>
 </div>
-
----
-
-### 🚀 My Projects
-
-<table>
-  <tr>
-    <td align="center" width="70">
-      <a href="https://github.com/XFABISIEK/Contexta">
-        <img
-          src="https://raw.githubusercontent.com/XFABISIEK/Contexta/main/images/app-icon.png"
-          width="50"
-          alt="Contexta Logo"
-        />
-      </a>
-    </td>
-    <td>
-      <strong>
-        <a href="https://github.com/XFABISIEK/Contexta">Contexta</a>
-      </strong>
-      <br />
-      An application built for AI databases.
-    </td>
-  </tr>
-</table>
